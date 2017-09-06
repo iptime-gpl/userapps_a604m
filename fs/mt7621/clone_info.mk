@@ -1,0 +1,1 @@
+clones/a604m/clone_info.mk
